@@ -2,13 +2,13 @@
 
 ## Краткое описание
 
-24.07.2020 было проведено тестирование приложения Credit Card Number Validator.
+24.07.2020 было проведено функциональное тестирование приложения Credit Card Number Validator.
 
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* Номер кредитной карты 343199629337102 (AMEX) - fail - невалиден (должен быть валидным)
-* Номер кредитной карты 36436945468415 Diners Club - International - fail - невалиден (должен быть валидным)
+* Номер кредитной карты 343199629337102 (AMEX) - fail - невалиден (должен быть валидным) [issue #1](https://github.com/Kholtobina/Credit-Card-Number-Validator/issues/1)
+* Номер кредитной карты 36436945468415 Diners Club - International - fail - невалиден (должен быть валидным) [issue #2](https://github.com/Kholtobina/Credit-Card-Number-Validator/issues/2)
 
 ## Описание процесса тестирования
 
